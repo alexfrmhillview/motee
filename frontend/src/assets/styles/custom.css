@@ -1,0 +1,96 @@
+/* custom.css */
+.custom-nav {
+  background-color: rgba(146, 172, 111, 100);
+}
+
+/*.custom-nav .nav-link {
+  color: gray; /* Set the text color for the nav links 
+} */
+
+.navbar-logo {
+  max-width: 135px; /* You can adjust this value to the desired width */
+  height: auto; /* This ensures the image scales proportionally */
+}
+
+.bck-btn{
+  background-color: rgba(146, 172, 111, 100); 
+  outline: none;  
+  border: none;
+  
+}
+
+.bck-btn:active{
+  background-color: rgba(108,125,86,100) !important;
+
+}
+
+.bck-btn:hover{
+  color: white;
+  background-color: rgba(108,125,86,100);
+}
+
+.btn-btn:focus {
+  outline: none;
+}
+
+.product-name{
+  text-decoration: dotted;
+}
+
+.product-link {
+  text-decoration: none; /* Remove underline */
+  color: #333;
+}
+
+
+/*.Login-form{
+  margin: 2rem 0;
+  border: 2px solid #92AC6F;
+  border-radius: 1rem;
+  width:auto;
+} */
+.nav-link-custom-active{
+ color: rgba(146, 172, 111, 100); 
+}
+
+.nav-link-custom-active:hover{
+  color: rgba(108,125,86,100); 
+}
+
+
+
+
+.custom-pagination .page-item.active .page-link {
+  background-color: rgba(108,125,86,100) !important;
+  border-color: rgba(108,125,86,100) !important;
+  /* Add any other styles for active page item */
+}
+
+.custom-pagination .page-link:hover {
+  background-color: rgba(146, 172, 111, 100) !important;
+  /* Add any other styles for hover effect */
+}
+
+/* Example CSS for making carousel images responsive */
+.carousel-cell {
+  max-width: 100%;
+}
+
+/* Additional styles to control image positioning if needed */
+.carousel-cell img {
+  width: 100%;
+  height: auto; /* Maintain aspect ratio */
+}
+
+
+.stihl-row {
+  background-color: rgb(244, 103, 23); 
+  width: 100%; /* Full width */
+  padding: 1px 2px; /* Adjust padding as needed */
+  color: #fff; /* Text color */
+}
+
+.brand{
+  height: 19px;
+}
+
