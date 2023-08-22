@@ -4,8 +4,8 @@ import "flickity/css/flickity.css";
 import '../assets/styles/custom.css';
 
 const carouselData = [
-    { id: 1, imageUrl: "/images/carousel/slide1.png", altText: "STHIL" },
-    { id: 2, imageUrl: "/images/carousel/slide2.png", altText: "purina beggin available" },
+    { id: 1, imageUrl: "public/images/carousel/slide1.png", altText: "STHIL" },
+    { id: 2, imageUrl: "public/images/carousel/slide2.png", altText: "purina beggin available" },
     // Add more slides as needed
   ];
 
