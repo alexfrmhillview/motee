@@ -3,6 +3,17 @@ import Flickity from "react-flickity-component";
 import "flickity/css/flickity.css"; 
 import '../assets/styles/custom.css';
 
+const preloadImages = () => {
+  carouselData.forEach((slide) => {
+    const img = new Image();
+    img.src = slide.imageUrl;
+  });
+};
+
+// Call the preloadImages function before rendering the Carousel component
+preloadImages();
+
+
 const carouselData = [
     { id: 1, imageUrl: "/images/carousel/slide1.png", altText: "STHIL" },
     { id: 2, imageUrl: "/images/carousel/slide2.png", altText: "purina beggin available" },
