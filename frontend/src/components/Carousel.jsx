@@ -5,7 +5,7 @@ import '../assets/styles/custom.css';
 
 
 const carouselData = [
-    { id: 1, imageUrl: "/images/carousel/slide1.png", altText: "STHIL" },
+    { id: 1, imageUrl: "https://i.imgur.com/q39jVuV.png", altText: "STHIL Support" },
     { id: 2, imageUrl: "https://i.imgur.com/vlQHqPb.png", altText: "purina beggin available" },
     // Add more slides as needed
   ];
