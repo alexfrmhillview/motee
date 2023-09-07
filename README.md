@@ -2,7 +2,7 @@
     <img src="https://i.imgur.com/68uTDmj.jpg">
 </p>
 
-## Key Features
+# Key Features
 * Authentication
 * Password Management
 * User Management
