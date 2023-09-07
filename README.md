@@ -20,12 +20,11 @@ Trinidad and Tobago's e-commerce market are relatively small when compared to ot
 * History Service
 * Search Service
 * API
-#
+
 
 # Demo 
 Video here 
 
-#
 
 
 # Contact 
