@@ -9,10 +9,12 @@ Trinidad and Tobago's e-commerce market are relatively small when compared to ot
 * Authentication
 * Password Management
 * User Management
+* Cookie Sessions 
 * Cart Service
 * Review Service
 * History Service
-* Search Service 
+* Search Service
+* API 
 
 #
 
