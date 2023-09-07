@@ -2,6 +2,8 @@
     <img src="https://i.imgur.com/68uTDmj.jpg">
 </p>
 
+# Introduction 
+
 # Key Features
 * Authentication
 * Password Management
