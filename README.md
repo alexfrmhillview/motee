@@ -1,6 +1,7 @@
 <p align="center" width="100%">
     <img src="https://i.imgur.com/68uTDmj.jpg">
 </p>
+
 <h4 align="center">E-commerce API built using NodeJS & MongoDB</h4>
 
 # Introduction 
