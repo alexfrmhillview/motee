@@ -3,8 +3,8 @@
 </p>
 
 # Key Features
-*Authentication 
-*Password Management
+* Authentication 
+* Password Management
 User Management
 Cart Service
 Review Service
