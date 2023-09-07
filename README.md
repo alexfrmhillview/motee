@@ -2,14 +2,14 @@
     <img src="https://i.imgur.com/68uTDmj.jpg">
 </p>
 
-# Key Features
-* Authentication * User Management
+## Key Features
+* Authentication
 * Password Management
-User Management
-Cart Service
-Review Service
-History Service
-Search Service 
+* User Management
+* Cart Service
+* Review Service
+* History Service
+* Search Service 
 
 #
 
