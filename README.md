@@ -4,7 +4,15 @@
 
 # 
 
-Key Features
+# Key Features
+Authentication
+Password Management
+User Management
+Cart Service
+Review Service
+History Service
+Search Service 
+
 
 # Contact 
 Address: River Street, Sangre Grande
