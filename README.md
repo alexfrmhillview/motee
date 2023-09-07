@@ -3,7 +3,7 @@
 </p>
 
 # Key Features
-* Authentication 
+* Authentication * User Management
 * Password Management
 User Management
 Cart Service
