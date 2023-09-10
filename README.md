@@ -23,7 +23,9 @@ Trinidad and Tobago's e-commerce market are relatively small when compared to ot
 
 
 # Demo 
-Video here 
+https://github.com/alexfrmhillview/motee-and-sons-ecommerce/assets/97547040/83ea6b74-9ef7-4066-84dc-a8d848d5e0f8
+
+
 
 
 
